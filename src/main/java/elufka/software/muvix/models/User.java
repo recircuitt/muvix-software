@@ -36,10 +36,11 @@ public class User {
 
     @PrePersist
     private void onCreate(){
-        if(middleName != null) this.setMiddleName(middleName);
-        else this.setMiddleName(null);
+        if (middleName != null && middleName.trim().isEmpty()) {
+            this.middleName = null;
+        }
 
-        if(phoneNumber != null) this.setPhoneNumber(phoneNumber);
+        if(phoneNumber != null ) this.setPhoneNumber(phoneNumber);
         else this.setPhoneNumber(phoneNumber);
     }
 }
