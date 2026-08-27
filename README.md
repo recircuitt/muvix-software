@@ -67,6 +67,10 @@
 
 <hr>
 
+<p>Figma: 
+  <a href="https://www.figma.com/design/3bux3JM4zbhqSbR1zPqclo/Muvix?node-id=0-1&t=YRSKxbfVAICewVLV-1">Diseño</a>
+</p>
+
 <div align="center">
   <h3>🛠️ Desarrollado por</h3>
   <p><b>ELUFKA</b></p>
