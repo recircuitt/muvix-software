@@ -68,7 +68,7 @@
 <hr>
 
 <p>Figma: 
-  <a href="https://www.figma.com/design/3bux3JM4zbhqSbR1zPqclo/Muvix?node-id=0-1&t=YRSKxbfVAICewVLV-1">Diseño</a>
+  <a href="https://www.figma.com/design/a2zeHAPA9JCqRFP4aRN5Ub/Muvix-Redesign?node-id=0-1&p=f&t=DAizdAZ0oK8x6lCQ-0">Diseño</a>
 </p>
 
 <div align="center">
