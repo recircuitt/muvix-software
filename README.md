@@ -71,6 +71,8 @@
   <a href="https://www.figma.com/design/a2zeHAPA9JCqRFP4aRN5Ub/Muvix-Redesign?node-id=0-1&p=f&t=DAizdAZ0oK8x6lCQ-0">Diseño</a>
 </p>
 
+https://lucid.app/lucidchart/69158995-34c7-4ed0-9913-34da01918a2b/edit?invitationId=inv_5d664eaf-eb69-4559-84c2-47f94fe9ef3a&page=fwQcDkAJnwES#
+
 <div align="center">
   <h3>🛠️ Desarrollado por</h3>
   <p><b>ELUFKA</b></p>
