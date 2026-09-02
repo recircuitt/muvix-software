@@ -67,11 +67,21 @@
 
 <hr>
 
+<div>
 <p>Figma: 
   <a href="https://www.figma.com/design/a2zeHAPA9JCqRFP4aRN5Ub/Muvix-Redesign?node-id=0-1&p=f&t=DAizdAZ0oK8x6lCQ-0">Diseño</a>
 </p>
 
-https://lucid.app/lucidchart/69158995-34c7-4ed0-9913-34da01918a2b/edit?invitationId=inv_5d664eaf-eb69-4559-84c2-47f94fe9ef3a&page=fwQcDkAJnwES#
+
+<p>Diagrama UML: 
+  <a href="https://lucid.app/lucidchart/69158995-34c7-4ed0-9913-34da01918a2b/edit?invitationId=inv_5d664eaf-eb69-4559-84c2-47f94fe9ef3a&page=fwQcDkAJnwES#">Diagrama UML</a>
+</p>
+
+
+<p>Diagrama de Actividades: 
+  <a href="https://lucid.app/lucidchart/bf41ab2b-0608-48b3-bd41-0eb57c1c524a/edit?viewport_loc=579%2C230%2C992%2C470%2C0_0&invitationId=inv_a81995aa-64cd-4faa-99e2-7c92bc69ca01">Diagrama de Actividades</a>
+</p>
+</div>
 
 <div align="center">
   <h3>🛠️ Desarrollado por</h3>
