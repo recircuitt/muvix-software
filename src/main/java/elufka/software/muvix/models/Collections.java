@@ -39,5 +39,4 @@ public class Collections { //Clase que contendra una coleccion de lotes o produc
     @JoinColumn(name = "user_id")
     private User user;
 
-
 }

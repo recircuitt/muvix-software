@@ -20,4 +20,5 @@ public class BatchRequestDto {
     @NotNull(message = "price is requiered")
     @Positive(message = "price must be positive")
     private Integer price;
+
 }

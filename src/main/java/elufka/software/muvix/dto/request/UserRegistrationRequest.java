@@ -28,4 +28,5 @@ public class UserRegistrationRequest {
 
     @NotBlank
     private String lastName;
+
 }
