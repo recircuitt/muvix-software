@@ -3,7 +3,6 @@ package elufka.software.muvix.models;
 import jakarta.persistence.*;
 import lombok.*;
 
-
 @Entity
 @Getter
 @Setter
@@ -17,4 +16,5 @@ public class Categories {
 
     @Column(nullable = false)
     private String name;
+
 }

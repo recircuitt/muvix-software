@@ -17,10 +17,13 @@ public class ProductRequestDto {
 
     @NotEmpty(message = "State is required")
     private ProductState state;
+
     @NotNull(message = "qunatity is required")
     @Positive(message = "quantity must be positive")
     private Integer quantity;
+
     @NotNull(message = "price is requiered")
     @Positive(message = "price must be positive")
     private Integer price;
+
 }
