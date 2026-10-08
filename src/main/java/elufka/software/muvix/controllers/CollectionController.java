@@ -10,6 +10,7 @@ import org.springframework.stereotype.Controller;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
+//revisar si tiene sentido que exista
 public class CollectionController {
     private CollectionService collectionService;
 }
