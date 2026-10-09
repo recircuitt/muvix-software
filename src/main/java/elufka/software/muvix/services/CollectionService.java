@@ -9,5 +9,6 @@ import org.springframework.stereotype.Service;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
+//revisar si tiene sentido que exista
 public class CollectionService {
 }
